@@ -1,0 +1,16 @@
+1. id = title
+2. id  = description
+3. form => id survey-form
+4. 3 => id = name
+5. 3 => id = email
+6. jika format email tidak sesuai > validasi error
+7. 3 => id = number
+8. jika format number tidak sesuai > validasi error
+9. 7 min, max, jika melebihi batas max > validasi error
+10.label > id = name-label, id = email-label, id = number-label
+11.name, email, number > placeholder
+12.3 => select option => id = dropdown
+13. radio button => group name
+14.3 => checkbox => value
+15.3 => textarea
+16.3 => button > id = submit 
